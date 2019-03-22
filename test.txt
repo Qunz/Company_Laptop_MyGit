@@ -1,3 +1,4 @@
 Hi Git 
 2019/3/22
-add sth
+add sth diff
+test reset
