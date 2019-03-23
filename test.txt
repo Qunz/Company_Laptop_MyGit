@@ -4,3 +4,5 @@ add sth diff
 test reset
 
 local changed
+
+test github push
